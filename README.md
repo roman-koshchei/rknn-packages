@@ -26,3 +26,8 @@ uv add https://github.com/roman-koshchei/rknn-packages/raw/40a3df681ee7ea1d35405
 You can also notice I use commit id instead of master branch, because it helps reproducibility.
 
 **If you want, you can same way install it from official repository, no need to trust me!**
+
+### Local file
+
+You can also just download the wheel file to your local machine and even put it inside of the repository.
+That's also a good way.
